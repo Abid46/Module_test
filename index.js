@@ -6,3 +6,4 @@
 
 const data = require("./STUDY WITH ANIS.json");
 console.log("data");
+console.log("git status");
